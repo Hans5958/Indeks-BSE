@@ -1,0 +1,26 @@
+{
+  "name": "indeks-bse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tools/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hans5958/Indeks-BSE.git"
+  },
+  "author": "Hans5958",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hans5958/Indeks-BSE/issues"
+  },
+  "homepage": "https://github.com/Hans5958/Indeks-BSE#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.1.0",
+    "html-attribute-parser": "^1.0.0",
+    "node-html-parser": "^2.1.0"
+  }
+}
