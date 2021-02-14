@@ -1,6 +1,5 @@
 const axios = require("axios").default
 const parseHTML = require("node-html-parser").parse
-const chalk = require("chalk")
 const fs = require("fs-extra")
 const parseAttribute = require("html-attribute-parser")
 
@@ -8,7 +7,7 @@ let document, i2 = 0
 
 ;(async () => {
 
-	let data = JSON.parse(fs.readFileSync("./dataset/data.json"))
+	let data = JSON.parse(fs.readFileSync("./dataset/data-early.json"))
 
 	data.map(async (book, i) => {
 
@@ -43,7 +42,7 @@ let document, i2 = 0
 	setInterval(() => {
 		if (i2 === data.length) {
 			console.log("All done!")
-			fs.writeFileSync("./dataset/data-complete.json", JSON.stringify(data))
+			fs.writeFileSync("./dataset/data.json", JSON.stringify(data))
 			process.exit()
 		}
 	}, 100)
