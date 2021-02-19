@@ -6,7 +6,9 @@ Indeks Buku Sekolah Elektronik adalah sebuah indeks yang dibuat untuk mempermuda
 
 Semua buku telah dikelompokan sesuai dengan kelas dan diurutkan sesuai abjad.
 
-Indeks ini dibuat dikarenakan ada kekurangan yang ada pada situs Kemdikbud tersebut yang membuat pencarian suatu buku menjadi sulit.
+Indeks ini dibuat dikarenakan ada kekurangan yang ada pada situs Kemdikbud tersebut yang membuat pencarian suatu buku menjadi sulit, namun pada akhirnya beberapa layanan juga ditambahkan pada indeks ini.
+
+Untuk mencari buku yang Anda inginkan, gunakan fitur pencarian halaman. Biasanya fitur ini dituliskan sebagai "Cari di halaman," "Cari pada halaman," "Find in page," "Find," dan sebagainya. Anda juga dapat menekan tombol `CTRL` dan `F` secara bersamaan. (`CTRL + F`)
 
 ## Daftar Isi
 
