@@ -1,5 +1,7 @@
 # Indeks Buku Sekolah Elektronik <!-- omit in toc -->
 
+[![](https://img.shields.io/github/license/Hans5958/Indeks-BSE?style=flat-square)](https://github.com/Hans5958/Indeks-BSE/blob/master/LICENSE.md) ![](https://img.shields.io/badge/dynamic/json?color=informational&label=hits&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvisitor-badge%2FHans5958.Indeks-BSE&style=flat-square)
+
 Indeks Buku Sekolah Elektronik adalah sebuah indeks yang dibuat untuk mempermudah pencarian buku sekolah elektronik yang diinginkan pada berbagai situs penyedia buku sekolah elektronik dalam satu halaman panjang. 
 
 Semua buku telah dikelompokan sesuai dengan kelas dan diurutkan sesuai abjad.
